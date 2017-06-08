@@ -1,5 +1,5 @@
 import java.util.*;
-public class Word
+public class Abcd
 {
 public static void main(String args[])
 {
